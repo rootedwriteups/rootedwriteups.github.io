@@ -27,11 +27,9 @@ url: "https://rootedwriteups.me"
 
 github:
   username: hutninghackers344 # change to your GitHub username
-github:
-  username: om-prabhat # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+#  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -40,7 +38,6 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/hutninghackers344 # change to your Twitter homepage
-    - https://github.com/om-prabhat # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -103,7 +100,7 @@ avatar: /assets/img/favicons/favicon.svg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/favicons/favicon.svg # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -151,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://rootedwriteups.me"
 
 # ------------ The following options are not recommended to be modified ------------------
 
